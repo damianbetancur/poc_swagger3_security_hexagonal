@@ -1,0 +1,1 @@
+# poc_swagger3_security_hexagonal
